@@ -30,6 +30,7 @@ public class QuestTrackerPanel : MonoBehaviour
             questsT = jug.questTrack.CompletedQuests;
         }
 
+
         if (poolButtons.Count >= questsT.Count)
         {
             for (int i = 0; i < poolButtons.Count; i++)

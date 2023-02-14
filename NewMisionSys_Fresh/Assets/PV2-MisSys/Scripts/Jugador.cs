@@ -11,7 +11,6 @@ public class Jugador : MonoBehaviour
 
     //LINKEO PARA EL INVENTARIO
     //public GameObject inventario;
-    //private MouseLook mouseLook;
 
     public QuestSystem dataBase;
     public QuestTracker questTrack;
@@ -90,7 +89,7 @@ public class Jugador : MonoBehaviour
 
         //APARTADO PARA EL INVENTARIO EN EL SCRIPT PLAYER
 
-
+        
 
 
         //FIN DEL APARTADO
